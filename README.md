@@ -1,1 +1,2 @@
-# This is the first project of the Hamoye Data Science Internship. A notebooks containing the basics of a Machine Learning Project using an electricity consumption dataset.
+# This repo contains the notebooks of the projects done in both stage A and B of Hamoye Data Science Internship.
+
